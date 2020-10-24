@@ -11,7 +11,8 @@ Google has a data export tool. But the data is housed inside HTML files. This pr
 2. Install required libraries
 3. Change `path` to your Google HTML file
 4. Change `OUTPUT_FILE` to your desired CSV name
-5. Run
+5. Optional: specify start date and end date in the `ModelData` class to see search query topics from a previous time. 
+6. Run
 
 ## Features Generated From Google Data
 - Log type 
